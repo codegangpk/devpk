@@ -10,7 +10,7 @@ We build simple, beautiful apps that make life better.
 
 ## Featured Apps
 
-- **Grass** 🌱 – A focus & activity tracker with a GitHub-style grass field.
-- **Cheddar Camera** 📸 – True iPhone XS-style camera, no HDR crunch.
-- **Life Timer** ⏳ – Count down the moments that matter most.
+- **Grass** 🌱 – A focus & activity tracker with a GitHub-style grass field. [Support](grass-support) · [Privacy](grass-privacy)
+- **Cheddar Camera** 📸 – True iPhone XS-style camera, no HDR crunch. [Support](cheddar-support) · [Privacy](cheddar-privacy)
+- **Life Timer** ⏳ – Count down the moments that matter most. [Support](life-timer-support) · [Privacy](life-timer-privacy)
 - **PurpleMap** – Save and organize meaningful places on a map. [Support](purplemap-support) · [Privacy](purplemap-privacy)
