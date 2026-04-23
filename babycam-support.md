@@ -1,14 +1,12 @@
 # BabyCam Support Page
 
-## BabyCam / 베이비캠 - Natural Baby Photos
+## BabyCam has moved to Cheddar
 
-Welcome to the support center for **BabyCam / 베이비캠**, formerly known as Cheddar Camera.
+This page remains available for older BabyCam links.
 
-BabyCam helps you take clean, natural-looking photos without the overprocessed HDR look.
+The current app support page is now **Cheddar**.
 
-Made for baby photos.
-Made for softer memories.
-Made for original iPhone-style captures.
+[Cheddar Support](cheddar-support)
 
 ---
 

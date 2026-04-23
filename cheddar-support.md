@@ -1,16 +1,18 @@
-# BabyCam Support Page
+# Cheddar Support Page
 
-## Cheddar Camera is now BabyCam / 베이비캠
+## Cheddar - Natural iPhone-Style Camera
 
-This page remains available for existing Cheddar Camera users.
+Welcome to the support center for **Cheddar**.
 
-The app is now branded as **BabyCam / 베이비캠**.
+Cheddar helps you take natural-looking photos without the overprocessed HDR or AI look.
 
-For the latest support information, use the new support page:
-
-[BabyCam Support](babycam-support)
+Use it for old iPhone-style color.
+Use it for softer, cleaner photos.
+Use it for simple and original captures.
 
 ---
+
+### Need Help?
 
 If you have any questions, feedback, or run into issues, we are here to help.
 
