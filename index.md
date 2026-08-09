@@ -10,6 +10,7 @@ We build simple, beautiful apps that make life better.
 
 ## Featured Apps
 
+- **Charging! / 차징!** ⚡ – Plan workouts, log sets, manage rest timers, and review your training history. [Support](charging-support) · [Privacy](charging-privacy)
 - **Grass** 🌱 – A focus & activity tracker with a GitHub-style grass field. [Support](grass-support) · [Privacy](grass-privacy)
 - **Cheddar** 📸 – Natural iPhone-style photos without the overprocessed HDR or AI look. [Support](cheddar-support) · [Privacy](cheddar-privacy)
 - **FIRE** 🔥 – A Korean-first FIRE and financial independence calculator. [Support](fire-support) · [Privacy](fire-privacy)
